@@ -37,4 +37,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## Contact
 
-For any inquiries or feedback, please contact us at jobfinder@example.com. We'd love to hear from you!
+For any inquiries or feedback, please contact us at aryaristote@gmail.com. We'd love to hear from you!
